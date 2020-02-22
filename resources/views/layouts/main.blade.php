@@ -46,7 +46,7 @@
 <!-- END: Head-->
 
 
-
+@yield('content')
 
 
 
