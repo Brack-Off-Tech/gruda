@@ -13,7 +13,7 @@
 
 
 // Route url
-Route::get('/', 'DashboardController@dashboardAnalytics');
+Route::get('/', 'AuthenticationController@login');
 
 // Route Dashboards
 Route::get('/dashboard-analytics', 'DashboardController@dashboardAnalytics');
