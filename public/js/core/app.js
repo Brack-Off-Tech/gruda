@@ -856,7 +856,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\Mujuki\Documents\GitHub\gruda\resources\js\core\app.js */"./resources/js/core/app.js");
+module.exports = __webpack_require__(/*! C:\Users\Hp Pro\Documents\GitHub\gruda\resources\js\core\app.js */"./resources/js/core/app.js");
 
 
 /***/ })
